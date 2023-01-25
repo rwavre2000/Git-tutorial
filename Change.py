@@ -1,2 +1,2 @@
-git  = "Ok never trends"
+git  = "Ok2 never trends"
 print(git)
